@@ -1,0 +1,21 @@
+{
+
+  "item.newworld.steel_ingot": "Steel Ingot",
+  "item.newworld.sea_stone": "Sea Stone",
+
+  "item.newworld.axe": "Axe",
+  "item.newworld.eclipse": "Eclipse",
+  "item.newworld.king_of_purgatory_katana": "Enma",
+  "item.newworld.emperors_skyrend_saber": "Gryphon",
+  "item.newworld.shusui": "Shusui",
+  "item.newworld.dark_sovereign_long_great_sword": "Yoru",
+  "item.newworld.wado_ichimonji": "Wado Ichimonji",
+  "item.newworld.shodai_kitetsu": "Shodai Kitetsu",
+  "item.newworld.sandai_kitetsu": "Sandai Kitetsu",
+
+  "key.category.newworld.newworld": "NewWorld",
+  "key.newworld.combat_mode": "Combat Mode",
+
+  "itemgroup.ingridients": "NewWorld Ingridients",
+  "itemgroup.combat": "NewWorld Weapons"
+}
