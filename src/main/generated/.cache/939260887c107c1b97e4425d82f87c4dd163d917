@@ -1,0 +1,11 @@
+// 1.21.1	2026-10-07T21:41:41.6259094	NewWorld/Model Definitions
+b857b9c93f7502ad2ba6958b8707e4454859df08 assets\newworld\models\item\steel_ingot.json
+1944b6061c6ada009ab5450a17158f6e1fcc82b3 assets\newworld\models\item\raw_sea_stone.json
+80d650e4c677d58ced5fa3b2131d5ca6e022d4d8 assets\newworld\models\item\sea_stone.json
+6749f8b9cd94b366aa1c00f7e9eab87a2e8e2b65 assets\newworld\models\block\steel_mineral.json
+7f8605f06bf2aac06f2efcd35ad853038c049a53 assets\newworld\models\block\sea_stone_mineral.json
+e2684f48a2e561a6001b34ce1ec93d8dd5554e0e assets\newworld\blockstates\sea_stone_mineral.json
+5c5308a2ab371102c247b99596b06613afffd7f3 assets\newworld\models\item\steel_mineral.json
+7722dc49bd6b88bc870a24ed33a08a2659be7e4d assets\newworld\models\item\raw_steel.json
+c0893d260b6f962c89c446104f2b24054450c9f5 assets\newworld\models\item\sea_stone_mineral.json
+fde05847ae8048e24f483794f5e65a64ac43f7ba assets\newworld\blockstates\steel_mineral.json

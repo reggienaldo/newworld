@@ -1,0 +1,62 @@
+{
+  "haki_release": {
+    "subtitle": "sounds.newworld.hao_haki",
+    "sounds": [
+      "newworld:haki_release"
+      ]
+  },
+  "geppo": {
+    "subtitle": "sounds.newworld.geppo",
+    "sounds": [
+      "newworld:geppo"
+    ]
+  },
+  "haki_activate": {
+    "subtitle": "sounds.newworld.buso_haki",
+    "sounds": [
+      "newworld:haki_activate"
+    ]
+  },
+  "kenbunshoku_haki_on": {
+    "subtitle": "sounds.newworld.kenbunshoku_haki_on",
+    "sounds": [
+      "newworld:kenbunshoku_haki_on"
+    ]
+  },
+  "kenbunshoku_haki_off": {
+    "subtitle": "sounds.newworld.kenbunshoku_haki_off",
+    "sounds": [
+      "newworld:kenbunshoku_haki_off"
+    ]
+  },
+  "guard_haki": {
+    "subtitle": "sounds.newworld.guard_haki",
+    "sounds": [
+      "newworld:guard_haki"
+    ]
+  },
+  "future_sight_hit": {
+    "subtitle": "sounds.newworld.future_sight_hit",
+    "sounds": [
+      "newworld:future_sight_hit"
+    ]
+  },
+  "dodge": {
+    "subtitle": "sounds.newworld.dodge",
+    "sounds": [
+      "newworld:dodge"
+    ]
+  },
+  "soru": {
+    "subtitle": "sounds.newworld.soru",
+    "sounds": [
+      "newworld:soru"
+    ]
+  },
+  "explode": {
+    "subtitle": "sounds.newworld.explode",
+    "sounds": [
+      "newworld:explode"
+    ]
+  }
+}

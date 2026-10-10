@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "sea_stone",
+  "ingredient": {
+    "item": "newworld:sea_stone_mineral"
+  },
+  "result": {
+    "id": "newworld:sea_stone"
+  }
+}

@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "newworld",
+	"version": "${version}",
+	"name": "NewWorld",
+	"description": "This is a One Piece mod",
+	"authors": [
+		"Reggie"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/newworld/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"cardinal-components": [
+			"net.reggie.NewWorld"
+		],
+		"main": [
+			"net.reggie.NewWorld"
+		],
+		"client": [
+			"net.reggie.NewWorldClient"
+		],
+		"fabric-datagen": [
+			"net.reggie.NewWorldDataGenerator"
+		]
+	},
+	"custom": {
+		"cardinal-components": [
+			"newworld:haki_energy",
+			"newworld:stats"
+		]
+	},
+	"mixins": [
+		"newworld.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

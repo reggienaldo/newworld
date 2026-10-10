@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_steel_mineral": {
+      "conditions": {
+        "items": [
+          {
+            "items": "newworld:steel_mineral"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "newworld:steel_ingot_from_smelting_steel_mineral"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_steel_mineral"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "newworld:steel_ingot_from_smelting_steel_mineral"
+    ]
+  }
+}
